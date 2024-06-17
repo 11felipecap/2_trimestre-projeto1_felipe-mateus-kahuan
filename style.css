@@ -22,7 +22,9 @@ body{
     background-image: url("./img/Print-Netflix-logo-marca.jpg");
     background-repeat: no-repeat ;
     background-size: cover;
+    align-items: center;
 }
+
 container{
     height: 100vh;
     display: grid;
@@ -36,6 +38,7 @@ container{
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
+    margin-bottom: 1em;
 }
 
 .botao__secundario{
@@ -59,6 +62,7 @@ container{
     width: 120px;
 }
 
+ .container__caixa{
+    margin: 0 6em;
+ }
  
-
-
