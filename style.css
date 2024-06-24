@@ -21,8 +21,9 @@ body{
 .conteudo-principal{
     background-image: url("./img/Print-Netflix-logo-marca.jpg");
     background-repeat: no-repeat ;
-    background-size: cover;
+    background-size: contain;
     align-items: center;
+    
 }
 
 container{
